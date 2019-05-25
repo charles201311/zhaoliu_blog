@@ -1,0 +1,9 @@
+127.0.0.1 - - [25/May/2019:08:20:12 +0800] "GET /list HTTP/1.1" 200 3231 http-bio-80-exec-1 1177
+127.0.0.1 - - [25/May/2019:08:20:12 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-80-exec-3 15
+127.0.0.1 - - [25/May/2019:08:21:59 +0800] "GET /toManager HTTP/1.1" 200 1474 http-bio-80-exec-5 19
+127.0.0.1 - - [25/May/2019:08:23:01 +0800] "GET /toManager HTTP/1.1" 200 1439 http-bio-80-exec-8 1068
+127.0.0.1 - - [25/May/2019:08:23:19 +0800] "GET /toManager HTTP/1.1" 200 1439 http-bio-80-exec-10 127
+127.0.0.1 - - [25/May/2019:08:30:34 +0800] "POST /importType HTTP/1.1" 200 14 http-bio-80-exec-2 173
+127.0.0.1 - - [25/May/2019:08:30:35 +0800] "GET /list HTTP/1.1" 200 3231 http-bio-80-exec-2 16
+127.0.0.1 - - [25/May/2019:08:30:43 +0800] "GET /toAdd HTTP/1.1" 200 1682 http-bio-80-exec-2 16
+127.0.0.1 - - [25/May/2019:08:30:43 +0800] "GET /getTypeList HTTP/1.1" 200 368 http-bio-80-exec-2 64
